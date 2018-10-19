@@ -1,2 +1,3 @@
 # HighSchoolCompSci
-Code from my high school intro and AP comp sci courses
+Code from my high school intro to com sci class
+
